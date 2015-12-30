@@ -20,7 +20,7 @@
     "url": "https://github.com/mattfysh/postcss-chunk.git"
   },
   "dependencies": {
-    "postcss": "^4.1.9"
+    "postcss": "^5.0.13"
   },
   "devDependencies": {
     "chai": "^3.0.0",
